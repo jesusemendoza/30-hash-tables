@@ -33,3 +33,9 @@ retrieves the value when the key is put in.
 ```
 get(key)
 ```
+delte: 
+deletes a key value pair from the hash-table by the key
+
+```
+delte(key)
+```
